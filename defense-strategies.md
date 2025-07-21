@@ -1,4 +1,4 @@
-🛡️ Defense Strategies Against Prompt Injection Attacks
+## Defense Strategies Against Prompt Injection Attacks
 
 This document outlines defense strategies to mitigate Direct, Indirect, and Nested Prompt Injection attacks when deploying LLMs in production or research environments.
 
