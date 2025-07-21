@@ -27,7 +27,7 @@ Each attack type is scored on:
 - Exploitability (Easy to Hard)
 - Mitigations (Possible defenses)
 
-See ['rating-matrix.csv'](rating-matrix.csv) for a structured overview.
+See ['LLM_Prompt_Injection_Rating_Matrix.csv'](LLM_Prompt_Injection_Rating_Matrix.csv) for a structured overview.
 
 ## 3. Defense Strategies
 
