@@ -27,11 +27,11 @@ Each attack type is scored on:
 - Exploitability (Easy to Hard)
 - Mitigations (Possible defenses)
 
-See ['rating-matrix.csv'] for a structured overview.
+See ['rating-matrix.csv'](rating-matrix.csv) for a structured overview.
 
 ## 3. Defense Strategies
 
-See ['defense-strategies.md'] for:
+See ['defense-strategies.md'](defense-strategies.md) for:
 - Prompt sanitization and validation
 - Role-based context separation
 - LLM output constraints and verifiers
