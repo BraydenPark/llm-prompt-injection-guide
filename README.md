@@ -43,7 +43,7 @@ See ['defense-strategies.md'](defense-strategies.md) for:
 - Extend with **automation scripts** to test local models
 
 ## Author
-Brayden Park - Cybersecurity Consultant | [LinkedIn](https://www.linkedin.com/in/braydenpark
+Brayden Park - Cybersecurity Consultant | [LinkedIn](https://www.linkedin.com/in/braydenpark)
 
 ## Contributions Welcome
 Have a new attack type or test? Submit a PR or open an issue
